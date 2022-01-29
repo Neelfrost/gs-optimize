@@ -13,7 +13,7 @@
     Compresses PDF to the greatest extent possible with little loss in quality.
 </p>
 
-<video src="https://raw.githubusercontent.com/Neelfrost/github-assets/main/gs-optimize/demo.mp4" width="100%"></video>
+<video src="https://user-images.githubusercontent.com/64243795/151647333-4398808e-ef03-4d77-abc3-4a99cac20c4e.mp4" width="100%"></video>
 
 ## Installation
 
